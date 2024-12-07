@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+neo4j
+voyageai==0.2.3
+pandas==2.2.2
+astor==0.8.1
+torch==2.3.1
